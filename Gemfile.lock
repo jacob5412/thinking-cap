@@ -68,7 +68,6 @@ GEM
 
 PLATFORMS
   ruby
-  x86_64-linux
 
 DEPENDENCIES
   jekyll (~> 4.1.0)
@@ -78,6 +77,3 @@ DEPENDENCIES
   jekyll-sitemap (~> 1.4)
   tzinfo-data
   webrick (~> 1.7)
-
-BUNDLED WITH
-   1.17.3
