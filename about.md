@@ -1,8 +1,8 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: About page
 comments: false
 ---
 
@@ -10,7 +10,7 @@ He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation
 
 If you have a question about him or else, just send a letter to him.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+You can [report](http://github.com/jacob5412/thinking-cap/issues/new) if there is an broken link(s) or somethings else.
 
 **may u needs ✨**
 
